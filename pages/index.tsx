@@ -1,4 +1,4 @@
-const Home = (): JSX.Element => {
+const HomePage = (): JSX.Element => {
   return (
     <div>
       <h1>hello next world</h1>
@@ -6,4 +6,4 @@ const Home = (): JSX.Element => {
   )
 }
 
-export default Home
+export default HomePage
